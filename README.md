@@ -1,12 +1,20 @@
-<h1 align="left">Hello World🌍👋! My name is Farhan Syahbanna and I'm a Web Develoment Enthusiast💻</h1>
+<h1 align="left">Hello World!🌍👋 My name is Farhan Syahbanna and I'm a Web Develoment Enthusiast💻</h1>
+
+
+
+<h2 align="left">My Statistics📈</h2>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=farhansyahbanna&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&custom_title=My%20Github%20Stats" height="135" alt="stats graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=farhansyahbanna&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="150" alt="streak graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=farhansyahbanna&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&custom_title=My%20Github%20Stats" height="135" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=farhansyahbanna&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=farhansyahbanna&locale=en&hide_title=true&layout=compact&card_width=320&theme=tokyonight&hide_border=false" height="140" alt="languages graph"  />
 </div>
+
+###
+
+<h2 align="left">Tech Stack💻</h2>
 
 ###
 
@@ -32,6 +40,10 @@
 
 ###
 
+<h2 align="left">Let's Connect🤝</h2>
+
+###
+
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   <a href="https://www.instagram.com/farhan_syah007/" target="_blank">
@@ -48,6 +60,11 @@
   </a>
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
 </div>
+
+###
+
+<h2 align="left">My Contribution✅</h2>
+
 
 ###
 
