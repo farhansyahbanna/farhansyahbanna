@@ -1,4 +1,4 @@
-<h1 align="left">Hello World🌍👋! My name is Farhan Syahbanna and I'm a Web Develoment Enthusiast💻</h1>
+<h2 align="left">Hello World🌍👋! My name is Farhan Syahbanna and I'm a Web Develoment Enthusiast💻</h2>
 
 ###
 
