@@ -7,8 +7,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=farhansyahbanna&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&custom_title=My%20Github%20Stats" height="135" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=farhansyahbanna&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=farhansyahbanna&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&custom_title=My%20Github%20Stats" height="135" alt="stats graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=farhansyahbanna&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="150" alt="streak graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=farhansyahbanna&locale=en&hide_title=true&layout=compact&card_width=320&theme=tokyonight&hide_border=false" height="140" alt="languages graph"  />
 </div>
 
@@ -76,7 +76,8 @@
 </picture>
 
 
-###
+
+
 <!--
 **farhansyahbanna/farhansyahbanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
